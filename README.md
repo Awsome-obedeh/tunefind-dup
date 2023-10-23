@@ -1,7 +1,7 @@
-#next js class
+**next js class**
 
-#how to use :
-run git clone https://github.com/Awsome-obedeh/tunefind-dup.git
-git init 
-np run dev
+**HOW TO USE :** <br>
+run git clone https://github.com/Awsome-obedeh/tunefind-dup.git/ <br>
+git init <br>
+np run dev  <br>
 
